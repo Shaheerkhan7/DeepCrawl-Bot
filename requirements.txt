@@ -6,4 +6,4 @@ beautifulsoup4
 lxml 
 html5lib
 python-dotenv
-annotated-text
+st-annotated-text
